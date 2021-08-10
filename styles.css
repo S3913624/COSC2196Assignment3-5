@@ -1,6 +1,11 @@
+html{
+  background-color: #cbd5ec;
+}
+
 body{
   margin-left: 20%;
   margin-right: 20%;
+  background-color: #FFFFFF;
 }
 
 h1 {
@@ -22,6 +27,7 @@ h3 {
   font-family: calibri;
   color:#2F5496;
   font-size:25px;
+  margin-left: +3%;
 }
 
 h4 {
@@ -29,6 +35,7 @@ h4 {
   font-family: calibri;
   color:#2F5496;
   font-size:20px;
+  margin-left: +3%;
 }
 
 h5 {
@@ -37,12 +44,15 @@ h5 {
   font-family: calibri;
   color:#2F5496;
   font-size:20px;
+  margin-left: +3%;
 }
 p {
   text-align: justify;
   font-family: calibri;
   color:#404040;
   font-size:15px;
+  margin-left: +3%;
+  margin-right: +3%;
 }
 
 
@@ -57,6 +67,7 @@ ul {
   font-family: calibri;
   color:#404040;
   font-size:15px;
+  margin-left: +3%;
 }
 
 a {
