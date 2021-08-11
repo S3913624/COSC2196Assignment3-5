@@ -27,7 +27,6 @@ body{
     font-family: calibri;
     color:#2F5496;
     font-size:25px;
-    margin-left: +2%;
   }
 
   h4 {
@@ -35,7 +34,6 @@ body{
     font-family: calibri;
     color:#2F5496;
     font-size:20px;
-    margin-left: +2%;
   }
 
   h5 {
@@ -54,12 +52,21 @@ body{
     margin-left: +2%;
     margin-right: +2%;
   }
-
+table{
+  margin-left: +2%;
+  margin-right: +2%;
+  text-align: left;
+  word-wrap: break-word;
+}
 
   td {
     font-family: calibri;
     color:#404040;
     font-size:15px;
+    max-width: 100%;
+  }
+  td:last-child{
+    max-width: 20%;
   }
 
   ul {
@@ -86,3 +93,12 @@ body{
     margin-left: auto;
     margin-right: auto;
   }
+img{
+  width: 100%;
+  height: auto;
+  display:block;
+}
+.small{
+  max-height: 20%;
+  max-width: 20%;
+}
