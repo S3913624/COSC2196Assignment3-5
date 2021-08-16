@@ -81,9 +81,10 @@ ul {
   }
 
 a {
+    color: inherit;
     font-family: calibri;
     font-style: italic;
-    text-decoration:none;
+    text-decoration: underline;
   }
 
 hr {
