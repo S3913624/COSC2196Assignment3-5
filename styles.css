@@ -47,6 +47,9 @@ p {
     font-family: calibri;
     color:#404040;
     font-size:20px;
+    text-indent: 0%;
+    margin-left: +2%;
+    margin-right: +2%;
   }
 
 table{
@@ -68,8 +71,10 @@ td:last-child{
   }
 
 th{
+  font-family: calibri;
+  color:#2F5496;
   width: 20%;
-  font-size: 15px;
+  font-size: 18px;
   text-align: center;
 }
 
@@ -77,7 +82,7 @@ ul {
     text-align: left;
     font-family: calibri;
     color:#404040;
-    font-size:15px;
+    font-size:20px;
   }
 
 a {
