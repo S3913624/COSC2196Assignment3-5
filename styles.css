@@ -67,9 +67,6 @@ td {
     vertical-align: top;
   }
 
-td:last-child{
-    max-width: 20%;
-  }
 
 th{
   font-family: calibri;
